@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[Daily-memo](https://github.com/AsifKhan-tech/Daily-memo)**
+- 🔭 Currently working on **[Daily-memo](https://dailymemo.online/)**
 - 🌱 Currently learning **Generative AI**
 - 👯 Looking to collaborate on **[ContextLM](https://github.com/AsifKhan-tech/4_ContextLM)**
 - 🤝 Looking for help with **[WanderLust](https://github.com/AsifKhan-tech/WanderLust)**
