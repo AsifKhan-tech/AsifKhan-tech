@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://github.com/AsifKhan-tech/Daily-memo">
+<a href="https://dailymemo.online/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsifKhan-tech&repo=Daily-memo&theme=tokyonight&hide_border=true" alt="Daily-memo" />
 </a>
 
